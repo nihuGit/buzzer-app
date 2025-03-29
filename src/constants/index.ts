@@ -25,8 +25,8 @@ export const footerData = [
           "Blog",
           "About Amazon",
           "Investor Relations",
-          "Shoppers Devices",
-          "Shoppers Science",
+          "Buzzer Devices",
+          "Buzzer Science",
         ],
       },
     ],
@@ -38,13 +38,13 @@ export const footerData = [
       {
         _id: "002",
         listData: [
-          "Sell products on Shoppers",
+          "Sell products on Buzzer",
           "Sell on Amazon Business",
           "Sell apps on Amazon",
           "Become an Affiliate",
           "Advertise Your Products",
           "Sell Product with Us",
-          "Host an Shoppers Hub",
+          "Host an Buzzer Hub",
           "See More Make Money with Us",
         ],
       },
@@ -52,15 +52,15 @@ export const footerData = [
   },
   {
     _id: 2223,
-    title: "Shoppers Payment Products",
+    title: "Buzzer Payment Products",
     listItem: [
       {
         _id: "003",
         listData: [
-          "Shoppers Business Card",
+          "Buzzer Business Card",
           "Shop with Points",
           "Reload Your Balance",
-          "Shoppers Currency Converter",
+          "Buzzer Currency Converter",
         ],
       },
     ],
@@ -72,13 +72,13 @@ export const footerData = [
       {
         _id: "004",
         listData: [
-          "Shoppers and COVID-19",
+          "Buzzer and COVID-19",
           "Your Account",
           "Your Orders",
           "Shipping Rates & Policies",
           "Returns & Replacements",
           "Manage Your Content and Devices",
-          "Shoppers Assistant",
+          "Buzzer Assistant",
           "FAQ & Help",
         ],
       },
